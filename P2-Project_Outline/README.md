@@ -7,12 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Marketplace Metrics will allow you to keep track of your total cash flow for buying and selling items on Facebook Marketplace.
+ 
 ### Features
-Include Features here
+1) User login: Ability to create account manually or through Facebook account 
+1) Add inventory: Ability to add items to inventory database
+2) Update inventory: Ability to update item description, price, and Bought/Sold status
+3) Remove inventory: Ability to delete item from database
+4) View Inventory: Ability to view full list of items separated by bought and sold categories
+3) View Cash Flow: Ability to view metrics dashboard detailing total cash flow from transactions 
+
 ### Technologies
-Include Technologies here
+Java,
+Spring,
+Thymeleaf,
+Bootstrap,
+Hibernate ORM,
+mySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+1) Bootstrap formatting and enhancements for analytics dashboard view
+2) Login authentication via Facebook account
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/VVeFSaN8/marketplace-metrics
